@@ -1,7 +1,7 @@
 # Crossing-river-game
 THE CROSSING RIVER GAME:
 The crossing river game is basically a two player game made in python using pygame library.
-
+To play this game save all the files in a single directory and using python3 command one can play the game.
 ABOUT THE GAME:
 This game consists of 5 partitions of land on the river. There are 2 players , one at the Top and another at the Bottom (2sides of the river bank).A player is safe when it is standing on the partition.There
 are two kinds of obstacles, moving and fixed. The player starts from the ‘START’ partition and must reach
